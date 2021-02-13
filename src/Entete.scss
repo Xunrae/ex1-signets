@@ -1,0 +1,32 @@
+.Entete {
+    position: sticky;
+    top: 0;
+    z-index: 15;
+    height: 60px;
+    margin: 0px;
+    padding: 20px;
+    font-size: 1.2em;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    ul {
+      margin: 10px 0 0 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-flow: column;
+      width:100%;
+      font-size: 0.8em;
+      align-content: center;
+      li {
+        cursor: pointer;
+      }
+      li:first-child {
+        padding-left: 15px;
+      }
+      li:last-child{
+        align-self: flex-end;
+      }
+    }
+  }

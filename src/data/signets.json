@@ -1,0 +1,38 @@
+[
+    {
+        "id": "prd0001",
+        "titre": "Overlord light novel vol. 1, hardback",
+        "couleur": "bleu",
+        "dateModif": "11 janvier 2019"
+    },
+    {
+        "id": "prd0002",
+        "titre": "Youjo Senki light novel vol. 1",
+        "couleur": "jaune",
+        "dateModif": "14 août 2020"
+    },
+    {
+        "id": "prd0003",
+        "titre": "Log Horizon light novel vol. 1",
+        "couleur": "vert",
+        "dateModif": "2 décembre 2020"
+    },
+    {
+        "id": "prd0004",
+        "titre": "Goblin Slayer light novel vol. 1",
+        "couleur": "rouge",
+        "dateModif": "6 mars 2018"
+    },
+    {
+        "id": "prd0005",
+        "titre": "Danmachi light novel vol. 1",
+        "couleur": "orange",
+        "dateModif": "18 avril 2017"
+    },
+    {
+        "id": "prd0006",
+        "titre": "Skeleton knight in another world light novel vol. 1",
+        "couleur": "gris",
+        "dateModif": "25 décembre 1906"
+    }
+]
